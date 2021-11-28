@@ -1,0 +1,22 @@
+{
+  "name": "open-ai-api",
+  "version": "1.0.0",
+  "description": "use open ai to create an api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuabyler/open-ai-api.git"
+  },
+  "author": "Joshua Byler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshuabyler/open-ai-api/issues"
+  },
+  "homepage": "https://github.com/joshuabyler/open-ai-api#readme",
+  "dependencies": {
+    "openai-api": "^1.2.6"
+  }
+}
